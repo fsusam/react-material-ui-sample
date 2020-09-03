@@ -1,0 +1,18 @@
+// create react app
+npx create-react-app react-material-ui-sample
+
+## FIX permision
+sudo chown -R 1000:1000 "/home/fsusam/.npm"
+
+// open the project with visual studio code
+code .
+
+// add metarial-ui to package.json
+npm install @material-ui/core --save
+
+// add svg icon to package.json
+npm install @material-ui/icons --save
+
+
+
+
